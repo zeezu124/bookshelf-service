@@ -1,0 +1,5 @@
+.env
+*.DS_Store
+.idea/*
+bookshelf/__pycache__/*
+books/__pycache__/*
